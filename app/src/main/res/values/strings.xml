@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Taski</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_user_prompt">Welcome, %1$s.</string>
+    <string name="tiger_optimist">Optimistic Tiger</string>
+    <string name="shy_elephant">Shy Elephant</string>
+    <string name="melancholic_dolphin">Melancholic Dolphin</string>
+    <string name="philosophical_leopard">Philosophical Leopard</string>
+    <string name="musical_gorilla">Musical Gorilla</string>
+    <string name="dreaming_kangaroo">Dreaming Kangaroo</string>
+    <string name="prudent_giraffe">Prudent Giraffe</string>
+    <string name="adventurous_penguin">Adventurous Penguin</string>
+    <string name="astute_rhino">Astute Rhino</string>
+    <string name="curious_panda">Curious Panda</string>
+    <string name="what_s_in_your_mind_prompt">What\'s in your mind?</string>
+    <string name="add_a_note_prompt">Add a note…</string>
+    <string name="create">Create</string>
+    <string name="message_for_empty_list">Create tasks to achieve more.</string>
+    <string name="you_ve_got_task_to_do">You\'ve got %1$s task to do.</string>
+    <string name="no_more_tasks_to_do">No more tasks to do.</string>
+    <string name="update_task">Update</string>
+    <string name="you_cannot_create_empty_records_prompt">You cannot create empty records</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#3F3D56</color>
+    <color name="primaryColor">#1E88E5</color>
+    <color name="primaryDarkColor">#1565C0</color>
+    <color name="accentColor">#FFFFFF</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="taskDescriptionColor">#90A4AE</color>
+    <color name="taskBorderColor">#E0E0E0</color>
+    <color name="navbarColor">#FAFAFA</color>
+    <color name="highlightColor">#1E88E5</color>
+    <color name="nav_item_color">#007FFF</color>
+    <color name="unselected_color">#C6CFDC</color>
+    <color name="text_description_color">#8D9CB8</color>
+    <color name="blue">#007FFF</color>
+    <color name="text_color">#333333</color>
+    <color name="grey">#B0B0B0</color>
+    <color name="light_grey">#F5F7F9</color>
+    <color name="red">#FF5E5E</color>
+
+</resources>
