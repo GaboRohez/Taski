@@ -45,7 +45,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [A
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/yourusername/taski.git
+$ git clone https://github.com/GaboRohez/Taski.git
 
 # Open the project in Android Studio
 Open Android Studio and select Open an existing project.
